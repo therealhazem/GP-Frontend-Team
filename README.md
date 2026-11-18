@@ -1,1 +1,1 @@
-# GP-Frontend-Team
+# GP Frontend Team
